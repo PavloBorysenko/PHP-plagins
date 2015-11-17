@@ -1,0 +1,49 @@
+
+
+/*  Стили для отображения  в виджете    */
+.bory_wid{
+    padding: 10px;
+    font-size: 1.3em;
+    text-indent: 10px;
+
+}
+.bory_wid h1{
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.bory_wid img{
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+
+}
+.bory_wid p{
+    margin-top: 10px;
+}
+.bory_wid .fin_pr{
+    font-weight: bold;
+}
+
+
+
+/*  Стили для отображения  на странице     */
+.bory_page{
+    background: #c6c6c6;
+    padding: 10px;
+    text-indent: 10px;
+}
+.bory_page img{
+float: left;
+    width: 180px;
+    margin-right: 3%;
+}
+.bory_page .fin_pr{
+   clear: both;
+    font-weight: bold;
+}
+.bory_page h1{
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 10px;
+}
