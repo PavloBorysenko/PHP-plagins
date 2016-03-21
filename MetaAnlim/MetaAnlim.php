@@ -92,3 +92,33 @@ function bory_save_bory_details_portf($post_id){
   
   
 }
+
+// Вывод
+/*
+<?php $bory_title = get_post_meta($post->ID, 'bory_title');
+          $bory_desc= get_post_meta($post->ID, 'bory_desc');
+		  $i=0;
+		 if(count($bory_title[0])>0){ 
+         foreach( $bory_title[0] as $item){
+		  if(!empty( $bory_desc[0][$i])){
+		  ?>
+		  
+		  <span class="portfolio_detail_title"><?php echo $item; ?></span> <?php echo $bory_desc[0][$i]; ?></br>
+		 
+		  <?php
+		  }
+		  $i++;
+	  }
+		 }
+		  ?>
+
+*/
+
+
+
+
+
+
+
+
+
